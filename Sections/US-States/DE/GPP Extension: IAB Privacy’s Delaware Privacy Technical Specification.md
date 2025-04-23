@@ -194,7 +194,7 @@
 </div>
 <h4>GPC Sub-section</h4>
 <p>
-  <a target="_blank" href="https://globalprivacycontrol.github.io/gpc-spec/">
+  <a target="_blank" href="https://w3c.github.io/gpc/">
     <span style="color:rgb(17, 85, 204);">GPC</span>
   </a>
   <span style="color:rgb(36, 41, 47);">
